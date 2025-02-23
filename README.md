@@ -16,8 +16,11 @@ Github will only contain python scripts. [Models](https://huggingface.co/DeepFie
 
 Sentinel-P1 is an innovative, AI-driven solution designed to estimate an individual's risk of HIV based solely on readily available blood test reports. Unlike traditional HIV risk assessments that rely on behavioral factors, sexual history, and other self-reported data, Sentinel-P1 leverages the power of machine learning to identify subtle patterns within routine blood biomarkers that correlate with increased HIV susceptibility.  This marks a significant paradigm shift in early risk identification and opens avenues for proactive intervention.
 Output risk levels are categorized as follows:
+
     - Low risk: <1% probability of HIV infection
+    
     - Moderate risk: 1% to 5% probability
+    
     - High risk: >5% probability
 
 ## Key Innovations
