@@ -1,4 +1,4 @@
-# Sentinel-P1_HIV_Prediction_Model
+
 # Sentinel-P1: AI-Powered HIV Risk Stratification from Blood Reports
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
