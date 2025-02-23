@@ -4,7 +4,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Dependencies Status](https://img.shields.io/badge/Dependencies-Up%20to%20Date-brightgreen)](requirements.txt)
-[![Dataset](https://img.shields.io/badge/dataset-blue)](https://huggingface.co/datasets/DeepFieldML/HIV_Blood_Report_Dataset)
+[![Dataset](https://img.shields.io/badge/dataset-purple)](https://huggingface.co/datasets/DeepFieldML/HIV_Blood_Report_Dataset)
+[![Model](https://img.shields.io/badge/model-orange)](https://huggingface.co/DeepFieldML/HIV_Blood_Report_Predicition)
+
+## Important Notice
+Github will only contain python scripts. [Models](https://huggingface.co/DeepFieldML/HIV_Blood_Report_Predicition) and [Datasets](https://huggingface.co/datasets/DeepFieldML/HIV_Blood_Report_Dataset) will be hosted on HuggingFace
 
 ## Overview
 
@@ -54,7 +58,7 @@ The dataset includes the following features:
 
     ```bash
     git clone https://github.com/deepfield-ml/Sentinel-P1_HIV_Prediction_Model.git
-    cd [your_repository]
+    cd Sentinel-P1_HIV_Prediction_Model
     ```
 
 2.  Create a virtual environment (recommended):
@@ -97,7 +101,7 @@ The dataset includes the following features:
 
 ## Usage
 
-The `hiv_evaluation_app.py` script provides a user-friendly interface for evaluating the Sentinel-P1 model.  Users can input patient data and obtain a probability score indicating the likelihood of high HIV risk. This score can be used as a preliminary indicator and should be considered alongside other clinical factors.
+The `app.py` script provides a user-friendly interface for evaluating the Sentinel-P1 model.  Users can input patient data and obtain a probability score indicating the likelihood of high HIV risk. This score can be used as a preliminary indicator and should be considered alongside other clinical factors.
 
 ## Training the Model (Important: Requires Modification)
 
