@@ -6,7 +6,7 @@
 [![Dependencies Status](https://img.shields.io/badge/Dependencies-Up%20to%20Date-brightgreen)](requirements.txt)
 [![Dataset](https://img.shields.io/badge/Dataset-purple)](https://huggingface.co/datasets/DeepFieldML/HIV_Blood_Report_Dataset)
 [![Model](https://img.shields.io/badge/Model-orange)](https://huggingface.co/DeepFieldML/HIV_Blood_Report_Predicition)
-
+[![Web Demo](https://img.shields.io/badge/Demo-cyan)](https://huggingface.co/spaces/DeepFieldML/Sentinel-P1_HIV_Prediction_Model)
 ## Important Notice
 Github will only contain python scripts. [Models](https://huggingface.co/DeepFieldML/HIV_Blood_Report_Predicition) and [Datasets](https://huggingface.co/datasets/DeepFieldML/HIV_Blood_Report_Dataset) will be hosted on HuggingFace
 
