@@ -1,7 +1,7 @@
 
 # Sentinel-P1: AI-Powered HIV Risk Stratification from Blood Reports
 
-[![License: GNU-2.0](https://img.shields.io/badge/License-GNU2.0-yellow.svg)](https://opensource.org/licenses/GNU-2.0)
+[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Dependencies Status](https://img.shields.io/badge/Dependencies-Up%20to%20Date-brightgreen)](requirements.txt)
 [![Dataset](https://img.shields.io/badge/Dataset-purple)](https://huggingface.co/datasets/DeepFieldML/HIV_Blood_Report_Dataset)
