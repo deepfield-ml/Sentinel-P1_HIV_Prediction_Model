@@ -4,8 +4,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Dependencies Status](https://img.shields.io/badge/Dependencies-Up%20to%20Date-brightgreen)](requirements.txt)
-[![Dataset](https://img.shields.io/badge/dataset-purple)](https://huggingface.co/datasets/DeepFieldML/HIV_Blood_Report_Dataset)
-[![Model](https://img.shields.io/badge/model-orange)](https://huggingface.co/DeepFieldML/HIV_Blood_Report_Predicition)
+[![Dataset](https://img.shields.io/badge/Dataset-purple)](https://huggingface.co/datasets/DeepFieldML/HIV_Blood_Report_Dataset)
+[![Model](https://img.shields.io/badge/Model-orange)](https://huggingface.co/DeepFieldML/HIV_Blood_Report_Predicition)
 
 ## Important Notice
 Github will only contain python scripts. [Models](https://huggingface.co/DeepFieldML/HIV_Blood_Report_Predicition) and [Datasets](https://huggingface.co/datasets/DeepFieldML/HIV_Blood_Report_Dataset) will be hosted on HuggingFace
