@@ -143,8 +143,12 @@ class ModelEvaluationApp:
             probabilities = ort_outs[0][0]  # Get the probabilities for both classes
             risk_probability = probabilities[1]  # Probability of high risk (class 1)
 
-            # 5. Display Result
-            self.output_label.config(text=f"HIV Probability: {risk_probability:.4f}")
+            if 0 <= risk_probability <= 100:
+                self.output_label.config(text=f"HIV Probability: {risk_probability:.4f}")
+            elif risk_probability < 0:
+                self.output_label.config(text=f"HIV Probability: 0")
+            elif risk_probability > 100:
+                self.output_label.config(text=f"HIV Probability: 100")
 
         except ValueError as e:
             messagebox.showerror("Input Error", str(e))
