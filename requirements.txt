@@ -1,0 +1,8 @@
+tkinter
+pandas
+numpy
+joblib
+onnxruntime
+pytorch
+sklearn
+pandas
