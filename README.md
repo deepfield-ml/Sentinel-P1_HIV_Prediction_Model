@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Dependencies Status](https://img.shields.io/badge/Dependencies-Up%20to%20Date-brightgreen)](requirements.txt)
-[![Dataset] (https://img.shields.io/badge/dataset-blue)](https://huggingface.co/datasets/DeepFieldML/HIV_Blood_Report_Dataset)
+[![Dataset](https://img.shields.io/badge/dataset-blue)](https://huggingface.co/datasets/DeepFieldML/HIV_Blood_Report_Dataset)
 
 ## Overview
 
